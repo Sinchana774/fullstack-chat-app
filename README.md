@@ -3,6 +3,8 @@
 Echo is a **real-time chat application** built using the **MERN stack (MongoDB, Express, React, Node.js)** with **Socket.io** for seamless, instant messaging. It offers a modern, user-friendly interface with extensive features, making conversations smooth and engaging.  
 Try it at "https://echo-chat-app.onrender.com" !!
 
+🎥 Watch Demo at "https://vimeo.com/1074795146/f5b39c7da3?ts=0&share=copy" !
+
 ## 🚀 **Tech Stack & Features**  
 
 ### **🛠 Tech Stack:**  
