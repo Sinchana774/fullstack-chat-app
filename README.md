@@ -53,7 +53,7 @@ Try it at "https://echo-chat-app.onrender.com" !!
 ## 🛠 **Installation & Setup**  
 
 ### **Set Up Environment Variables**  
-Create a `.env` file in both **backend** and **frontend** directories and add necessary environment variables (MongoDB URI, JWT secret and Cloudinary API keys).
+Create a `.env` file and add necessary environment variables (MongoDB URI, JWT secret and Cloudinary API keys).
 
 ### **Start the Application**  
 #### Backend  
