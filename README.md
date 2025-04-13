@@ -76,6 +76,3 @@ Visit **`http://localhost:5173`** to start using Écho!
 🔹 **Voice & Video Calls** – Implement real-time audio and video communication.  
 🔹 **Message Reactions** – Add emoji reactions to messages.  
 🔹 **Typing Indicators** – Show when users are typing in a chat.  
-
-## 📜 **License**  
-This project is **open-source** and available under the **MIT License**.
