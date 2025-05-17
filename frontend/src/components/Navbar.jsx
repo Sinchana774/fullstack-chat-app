@@ -71,7 +71,7 @@ const Navbar = () => {
           <div className="flex items-center gap-8">
             <Link to="/" className="flex items-center gap-2.5 hover:opacity-80 transition-all">
               <img 
-                src="https://media-hosting.imagekit.io//af44244e26ff4ea1/E.png?Expires=1836835725&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=TkEHjJobegEgKlJf-jnMN~XnBtUJoj8MDzUw69kiOEi17IVfFUaEEEV3vFLWq~zpaL6HJ~2xCZwi8z4zNVtqSqsfBWfWruLYPmhJQqbrp3VDlNK3X4KNpLbpkKQw6tTc2zlAfuQp-VfN8K3C7MX43AJqDYuxRRfm92O~iHTlDmrGtil6Usm2pNRWtQ57tjtKvSE4loQTckTmHs10pPKYtwoJN5CGeA5HMmC6US6~6Nr0pcd67qf7vvMiBnahp49g7DHtSoWC-rmbvtoR9AWRixpOqYX8Xe92avwW25j8HV7zS6YG82SXRYfB3cTX5xHqtbxSJTFFbonKCtOZzrnZsg__"  
+                src="https://res.cloudinary.com/dvfkurhis/image/upload/v1743365752/wdojfh0ceibgbdkkjqxs.png"  
                 alt="Logo"
                 className="size-9 rounded-lg" 
               />
